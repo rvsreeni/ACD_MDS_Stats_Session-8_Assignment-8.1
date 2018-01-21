@@ -1,0 +1,15 @@
+Mean_population = 100
+SD_population = 15
+Mean_samle = 108
+Sample size = 36
+Significance level assumed (alpha) = .05 (5%)
+
+Null Hypothesis - Mean blood glucose level will be <= 100
+Alternate hypothesis - Mean blood glucose level will > 100
+
+z_alpha(.05) critical value = 1.645
+
+z_score = (108 - 100) / (15/sqrt(36)) = 48/15 = 3.2
+
+Since calculated z_score > critcal value z_alpha, we can reject Null hypothesis, hence there is raw cornstarch effect.
+
